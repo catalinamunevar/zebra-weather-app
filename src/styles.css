@@ -1,0 +1,64 @@
+body {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+h2 {
+  font-size: 13px;
+  text-align: center;
+  margin-bottom: 50px;
+}
+h3 {
+  font-size: 11px;
+  font-weight: 100;
+  padding-top: 20px;
+}
+h4 {
+  font-size: 11px;
+}
+ul {
+  padding: 0;
+}
+li {
+  font-size: 12px;
+  list-style-type: none;
+  padding: 0;
+}
+img {
+  width: 30px;
+}
+a {
+  text-decoration: none;
+}
+.city {
+  font-size: 16px;
+  text-align: center;
+  margin: 0;
+}
+.weather-app {
+  color: white;
+  border-radius: 10px;
+  padding: 20px;
+  margin: 20px auto;
+  background: #809ee6;
+  max-width: 600px;
+}
+.search-form {
+  margin-bottom: 20px;
+}
+.temperature {
+  font-size: 80px;
+  font-weight: 400;
+  line-height: 1;
+  padding-left: 100px;
+}
+a {
+  color: white;
+}
+.units {
+  position: relative;
+  top: -42px;
+}
+.week-icon {
+  width: 50px;
+  margin-top: -5px;
+}

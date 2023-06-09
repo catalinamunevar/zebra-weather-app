@@ -29,6 +29,7 @@ img {
 a {
   text-decoration: none;
 }
+
 .city {
   font-size: 16px;
   text-align: center;
@@ -61,4 +62,10 @@ a {
 .week-icon {
   width: 50px;
   margin-top: -5px;
+}
+.footer {
+  text-align: center;
+  font-size: 10px;
+  margin-top: 20px;
+  color: beige;
 }
